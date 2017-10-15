@@ -1,0 +1,1 @@
+  mFocusedActivity: ActivityRecord{284c3fc u0 com.tencent.mm/.plugin.search.ui.FTSAddFriendUI t373}
